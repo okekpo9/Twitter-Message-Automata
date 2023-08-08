@@ -32,3 +32,6 @@ This Python script utilizes the Tweepy library to send messages or direct messag
    ```bash
    git clone https://github.com/yourusername/twitter-message-sender.git
    cd twitter-message-sender
+   ## Usage
+   
+   add your custom message and name of the csv file containing the twitter handles in tweepy.py and run the file
