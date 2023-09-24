@@ -30,7 +30,7 @@ This Python script utilizes the Tweepy library to send messages or direct messag
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/twitter-message-sender.git
+   git clone https://github.com/okekpo9/twitter-message-sender.git
    cd twitter-message-sender
    ## Usage
    
